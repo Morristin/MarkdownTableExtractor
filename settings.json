@@ -1,0 +1,5 @@
+{
+  "extract_number_in_latex": true,
+  "replace_comma_with_semicolon": true,
+  "use_quote_for_each_unit": false
+}
